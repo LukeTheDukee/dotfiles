@@ -1,0 +1,7 @@
+
+xmonad.hs:394:1: warning: [-Wtabs]
+    Tab character found here, and in one further location.
+    Please use spaces instead.
+    |
+394 |         , ("M-p f", spawn "~/.config/dmscripts/explore-with-dmenu.sh") --test
+    | ^^^^^^^^
